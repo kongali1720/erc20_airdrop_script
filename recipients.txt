@@ -1,0 +1,3 @@
+0xAbc123... (alamat wallet penerima 1)
+0xDef456... (alamat wallet penerima 2)
+...
